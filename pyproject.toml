@@ -1,0 +1,13 @@
+[tool.poetry]
+name = "boilerplate-flask-poetry"
+version = "0.1.0"
+description = ""
+authors = ["Brian <finkelbrian+github@gmail.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.6"
+flask = "^1.1.2"
+
+[tool.poetry.dev-dependencies]
+python-dotenv = "^0.14.0"
